@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+lifelines
+matplotlib
+h5py
+pyarrow
+torch
